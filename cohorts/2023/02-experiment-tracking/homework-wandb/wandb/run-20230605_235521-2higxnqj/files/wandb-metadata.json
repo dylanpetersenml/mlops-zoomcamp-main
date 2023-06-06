@@ -1,0 +1,49 @@
+{
+    "os": "macOS-10.15.7-x86_64-i386-64bit",
+    "python": "3.11.2",
+    "heartbeatAt": "2023-06-06T06:55:22.319844",
+    "startedAt": "2023-06-06T06:55:21.740279",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "my-awesome-project",
+        "--wandb_entity",
+        "dylan-petersen-ml",
+        "--data_artifact",
+        "dylan-petersen-ml/my-awesome-project/NYC-Taxi:v0"
+    ],
+    "state": "running",
+    "program": "/Users/dylanpetersen/Desktop/mlops/mlops-zoomcamp-main/cohorts/2023/02-experiment-tracking/homework-wandb/sweep.py",
+    "codePath": "cohorts/2023/02-experiment-tracking/homework-wandb/sweep.py",
+    "git": {
+        "remote": "https://github.com/dylanpetersenml/mlops-zoomcamp-main.git",
+        "commit": "9c16b3556b6acce23950ba28f45898ebefa7df6f"
+    },
+    "email": "dylan.petersen.ml@gmail.com",
+    "root": "/Users/dylanpetersen/Desktop/mlops/mlops-zoomcamp-main",
+    "host": "Dylans-MacBook-Pro.local",
+    "username": "dylanpetersen",
+    "executable": "/usr/local/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 2600,
+        "min": 2600,
+        "max": 2600
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2600,
+            "min": 2600,
+            "max": 2600
+        }
+    ],
+    "disk": {
+        "total": 233.34413528442383,
+        "used": 10.32736587524414
+    },
+    "memory": {
+        "total": 16.0
+    }
+}
